@@ -1,0 +1,91 @@
+body{
+  background-color: rgb(72, 18, 117);
+}
+.cal{
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  
+  margin-top: 50px;
+  width:300px;
+  height:520px;
+  background-color: rgb(7, 97, 67);
+  border-radius: 10px;
+  box-shadow: 7px 7px 17px 0px rgba(26, 84, 12, 0.46)inset;
+  
+}
+.head input{
+  width: 180px;
+  height:40px;
+  padding: 15px;
+  border-radius: 10px;
+  border: none;
+  background-color: aliceblue;
+  font-size: 1.4rem;
+  text-align:right;
+  font-weight: bold;
+}
+.head{
+  margin: auto;
+  text-align: center;
+  margin-top: 40px;
+  margin-top: 10px;
+  padding-top: 30px;
+}
+.body{
+  margin-top:10px;
+  width: 100%;
+  margin-bottom:30px;
+}
+  
+
+.first{
+  text-align: center;
+  padding:5px;
+}
+.second{
+  text-align: center;
+  padding: 10px;
+}
+.Third{
+  text-align: center;
+  padding: 10px;
+}
+.fourth{
+  text-align: center;
+  padding: 10px;
+  
+
+}
+.btn{
+  padding: 20px;
+  border-radius: 40%;
+  background-color: rgb(15, 14, 14);
+  color: white;
+  border: none;
+  font-size: 1.1rem;
+ 
+}
+.btn:hover{
+  background-color: red;
+}
+.clear{
+  padding:10px;
+  margin: auto;
+  text-align: center;
+  
+}
+.btn1{
+  padding-left:90px;
+  padding-right: 90px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  background-color: rgb(15, 14, 14);
+  color: white;
+  font-size: 1.2rem;
+  border: none;
+}
+.btn1:hover{
+  background-color: blueviolet;
+}
